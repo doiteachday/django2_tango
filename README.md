@@ -1,2 +1,3 @@
 # django2_tango
-django2
+learn from tango with django
+keep busy, keep foolish.
